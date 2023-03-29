@@ -31,3 +31,4 @@ Cycles between selected windows in a predefined time
 
 #
 This compiled to an exe using [PyInstaller](https://pyinstaller.org)
+[VirusTotal](https://www.virustotal.com/gui/file/7d4d6c1afc99c35b8c7bdd605a310db5ed1d3edd31b01149f906b15c8b51468e?nocache=1)
